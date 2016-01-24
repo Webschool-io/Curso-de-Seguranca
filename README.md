@@ -2,7 +2,7 @@
 
 1. Introdução
   - O que é Segurança da Informação?
-  - Os Pilares da Segurança da Informação
+     - Os Pilares da Segurança da Informação
   - O que é Pentest?
      - Tipos de Pentest
       - Black-box
