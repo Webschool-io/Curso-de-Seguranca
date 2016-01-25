@@ -13,3 +13,8 @@
      - Metodologia OWASP
      - Metodologia OSSTMM
 
+2. Linux Para Testes de Invasão
+   - Um Pouco Sobre o Linux
+   - O que é o Kali Linux
+   - Instalando e Configurando o Kali
+   - Comandos Básicos
