@@ -18,3 +18,12 @@
    - O que é o Kali Linux
    - Instalando e Configurando o Kali
    - Comandos Básicos
+
+3. Coleta De Informações 
+
+   - Coleta De Informação Passiva
+   - Coleta de Informação Ativa
+   - Google Hacking
+   - Serviço de Whois
+   - Consulta de DNS
+   - Coleta de Emails
